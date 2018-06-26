@@ -1,0 +1,17 @@
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.deps.json
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.runtimeconfig.json
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.runtimeconfig.dev.json
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.dll
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.pdb
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.dll
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.pdb
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.csprojAssemblyReference.cache
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.csproj.CoreCompileInputs.cache
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.AssemblyInfoInputs.cache
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.AssemblyInfo.cs
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.csproj.CopyComplete
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.dll
+c:\users\phong phonix\source\repos\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.pdb

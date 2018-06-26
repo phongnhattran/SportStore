@@ -1,0 +1,11 @@
+c:\users\phong phonix\source\repos\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.deps.json
+c:\users\phong phonix\source\repos\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.runtimeconfig.json
+c:\users\phong phonix\source\repos\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.runtimeconfig.dev.json
+c:\users\phong phonix\source\repos\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.dll
+c:\users\phong phonix\source\repos\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.pdb
+c:\users\phong phonix\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csproj.CoreCompileInputs.cache
+c:\users\phong phonix\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.AssemblyInfoInputs.cache
+c:\users\phong phonix\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.AssemblyInfo.cs
+c:\users\phong phonix\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.dll
+c:\users\phong phonix\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.pdb
+C:\Users\Phong Phonix\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csprojAssemblyReference.cache
