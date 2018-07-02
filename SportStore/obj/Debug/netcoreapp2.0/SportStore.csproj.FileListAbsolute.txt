@@ -9,3 +9,14 @@ c:\users\phong phonix\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0
 c:\users\phong phonix\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.dll
 c:\users\phong phonix\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.pdb
 C:\Users\Phong Phonix\source\repos\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csprojAssemblyReference.cache
+D:\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.deps.json
+D:\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.runtimeconfig.json
+D:\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.runtimeconfig.dev.json
+D:\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.dll
+D:\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.pdb
+D:\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csprojAssemblyReference.cache
+D:\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csproj.CoreCompileInputs.cache
+D:\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.AssemblyInfoInputs.cache
+D:\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.AssemblyInfo.cs
+D:\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.dll
+D:\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.pdb

@@ -13250,23 +13250,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Phong Phonix\\.nuget\\packages\\": {},
+    "C:\\Users\\n.tran\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\phong phonix\\source\\repos\\SportStore\\SportStore\\SportStore.csproj",
+      "projectUniqueName": "D:\\SportStore\\SportStore\\SportStore.csproj",
       "projectName": "SportStore",
-      "projectPath": "c:\\users\\phong phonix\\source\\repos\\SportStore\\SportStore\\SportStore.csproj",
-      "packagesPath": "C:\\Users\\Phong Phonix\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\phong phonix\\source\\repos\\SportStore\\SportStore\\obj\\",
+      "projectPath": "D:\\SportStore\\SportStore\\SportStore.csproj",
+      "packagesPath": "C:\\Users\\n.tran\\.nuget\\packages\\",
+      "outputPath": "D:\\SportStore\\SportStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Phong Phonix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\n.tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13274,7 +13274,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/aspnet-contrib/api/v3/index.json": {},
+        "https://xnuget.catalystrisk.co.nz/nuget/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
