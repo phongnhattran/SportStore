@@ -5,20 +5,27 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using SportStore.Models;
+using SportStore.Models.ViewModels;
+using SportStore.Infrastructure;
 
 namespace SportStore.Controllers
 {
     public class CartController : Controller
     {
         private IProductRepository repository;
+        private Cart cart;
 
-        public CartController(IProductRepository repo)
+        public CartController(IProductRepository repo, Cart cartService)
         {
             repository = repo;
+            cart = cartService;
         }
-        public IActionResult Index()
+        public ViewResult Index(string returnUrl)
         {
-            return View();
+            return View(new CartIndexViewModel() {
+                Cart = cart,
+                ReturnUrl = returnUrl
+            });
         }
 
         public RedirectToActionResult RemoveFromCart(int productId, string returnUrl)
@@ -27,9 +34,7 @@ namespace SportStore.Controllers
             .FirstOrDefault(p => p.ProductID == productId);
             if (product != null)
             {
-                Cart cart = GetCart();
                 cart.RemoveLine(product);
-                SaveCart(cart);
             }
             return RedirectToAction("Index", new { returnUrl });
         }
@@ -46,9 +51,7 @@ namespace SportStore.Controllers
 
             if (product != null)
             {
-                Cart cart = GetCart();
                 cart.AddItem(product, 1);
-                SaveCart(cart);
             }
 
             return RedirectToAction("Index", new { returnUrl });
