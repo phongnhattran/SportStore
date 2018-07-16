@@ -1,0 +1,20 @@
+C:\Users\Phong Phonix\Documents\SportStore\SportStore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=SportStore
+--content-root=C:\Users\Phong Phonix\Documents\SportStore\SportStore
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Account\Login.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Admin\Edit.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Admin\Index.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Cart\Index.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Error\Error.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Order\Checkout.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Order\Completed.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Order\List.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Product\List.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Shared\Components\CartSummary\Default.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Shared\Components\NavigationMenu\Default.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Shared\ProductSummary.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Shared\_AdminLayout.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\Shared\_Layout.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\_ViewImports.cshtml
+--file=C:\Users\Phong Phonix\Documents\SportStore\SportStore\Views\_ViewStart.cshtml
