@@ -9,3 +9,14 @@ D:\SportStore\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyIn
 D:\SportStore\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyInfo.cs
 D:\SportStore\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.dll
 D:\SportStore\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.pdb
+C:\Users\Phong Phonix\Documents\SportStore\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.deps.json
+C:\Users\Phong Phonix\Documents\SportStore\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.runtimeconfig.json
+C:\Users\Phong Phonix\Documents\SportStore\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.runtimeconfig.dev.json
+C:\Users\Phong Phonix\Documents\SportStore\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.dll
+C:\Users\Phong Phonix\Documents\SportStore\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.pdb
+C:\Users\Phong Phonix\Documents\SportStore\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.csprojAssemblyReference.cache
+C:\Users\Phong Phonix\Documents\SportStore\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.csproj.CoreCompileInputs.cache
+C:\Users\Phong Phonix\Documents\SportStore\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyInfoInputs.cache
+C:\Users\Phong Phonix\Documents\SportStore\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyInfo.cs
+C:\Users\Phong Phonix\Documents\SportStore\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.dll
+C:\Users\Phong Phonix\Documents\SportStore\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.pdb

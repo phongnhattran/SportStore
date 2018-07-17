@@ -14540,23 +14540,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\n.tran\\.nuget\\packages\\": {},
+    "C:\\Users\\Phong Phonix\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Phong Phonix\\Documents\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
       "projectName": "SportStore.Tests",
-      "projectPath": "D:\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
-      "packagesPath": "C:\\Users\\n.tran\\.nuget\\packages\\",
-      "outputPath": "D:\\SportStore\\SportStore.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Phong Phonix\\Documents\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
+      "packagesPath": "C:\\Users\\Phong Phonix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Phong Phonix\\Documents\\SportStore\\SportStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\n.tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Phong Phonix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -14564,14 +14564,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/aspnet-contrib/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\SportStore\\SportStore\\SportStore.csproj": {
-              "projectPath": "D:\\SportStore\\SportStore\\SportStore.csproj"
+            "C:\\Users\\Phong Phonix\\Documents\\SportStore\\SportStore\\SportStore.csproj": {
+              "projectPath": "C:\\Users\\Phong Phonix\\Documents\\SportStore\\SportStore\\SportStore.csproj"
             }
           }
         }
