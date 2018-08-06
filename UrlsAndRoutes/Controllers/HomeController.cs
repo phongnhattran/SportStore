@@ -12,7 +12,7 @@ namespace UrlsAndRoutes.Controllers
     public class HomeController : Controller
     {
        // [Route("myroute")]
-        [Route("[controller]/MyIndex")]
+        //[Route("[controller]/MyIndex")]
         public ViewResult Index()
         {
             return View("Result", new Result
