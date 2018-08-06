@@ -8,3 +8,14 @@ D:\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.As
 D:\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfo.cs
 D:\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.dll
 D:\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.pdb
+C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.deps.json
+C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.json
+C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.dev.json
+C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.dll
+C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.pdb
+C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csprojAssemblyReference.cache
+C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.dll
+C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.pdb

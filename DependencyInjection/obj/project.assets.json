@@ -12662,23 +12662,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\n.tran\\.nuget\\packages\\": {},
+    "C:\\Users\\Phong Phonix\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SportStore\\DependencyInjection\\DependencyInjection.csproj",
+      "projectUniqueName": "C:\\Users\\Phong Phonix\\Documents\\SportStore\\DependencyInjection\\DependencyInjection.csproj",
       "projectName": "DependencyInjection",
-      "projectPath": "D:\\SportStore\\DependencyInjection\\DependencyInjection.csproj",
-      "packagesPath": "C:\\Users\\n.tran\\.nuget\\packages\\",
-      "outputPath": "D:\\SportStore\\DependencyInjection\\obj\\",
+      "projectPath": "C:\\Users\\Phong Phonix\\Documents\\SportStore\\DependencyInjection\\DependencyInjection.csproj",
+      "packagesPath": "C:\\Users\\Phong Phonix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Phong Phonix\\Documents\\SportStore\\DependencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\n.tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Phong Phonix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12686,8 +12686,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/aspnet-contrib/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
