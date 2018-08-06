@@ -12662,23 +12662,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Phong Phonix\\.nuget\\packages\\": {},
+    "C:\\Users\\n.tran\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phong Phonix\\Documents\\SportStore\\UrlsAndRoutes\\UrlsAndRoutes.csproj",
+      "projectUniqueName": "D:\\SportStore\\UrlsAndRoutes\\UrlsAndRoutes.csproj",
       "projectName": "UrlsAndRoutes",
-      "projectPath": "C:\\Users\\Phong Phonix\\Documents\\SportStore\\UrlsAndRoutes\\UrlsAndRoutes.csproj",
-      "packagesPath": "C:\\Users\\Phong Phonix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phong Phonix\\Documents\\SportStore\\UrlsAndRoutes\\obj\\",
+      "projectPath": "D:\\SportStore\\UrlsAndRoutes\\UrlsAndRoutes.csproj",
+      "packagesPath": "C:\\Users\\n.tran\\.nuget\\packages\\",
+      "outputPath": "D:\\SportStore\\UrlsAndRoutes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Phong Phonix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\n.tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12686,7 +12686,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/aspnet-contrib/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
