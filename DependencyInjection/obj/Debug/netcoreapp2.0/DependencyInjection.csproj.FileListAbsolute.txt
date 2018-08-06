@@ -1,0 +1,10 @@
+D:\SportStore\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.deps.json
+D:\SportStore\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.json
+D:\SportStore\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.dev.json
+D:\SportStore\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.dll
+D:\SportStore\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.pdb
+D:\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfoInputs.cache
+D:\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfo.cs
+D:\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.dll
+D:\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.pdb

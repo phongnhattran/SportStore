@@ -9,3 +9,14 @@ C:\Users\Phong Phonix\Documents\SportStore\UrlsAndRoutes\obj\Debug\netcoreapp2.0
 C:\Users\Phong Phonix\Documents\SportStore\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.dll
 C:\Users\Phong Phonix\Documents\SportStore\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.pdb
 C:\Users\Phong Phonix\Documents\SportStore\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.csprojAssemblyReference.cache
+D:\SportStore\UrlsAndRoutes\bin\Debug\netcoreapp2.0\UrlsAndRoutes.deps.json
+D:\SportStore\UrlsAndRoutes\bin\Debug\netcoreapp2.0\UrlsAndRoutes.runtimeconfig.json
+D:\SportStore\UrlsAndRoutes\bin\Debug\netcoreapp2.0\UrlsAndRoutes.runtimeconfig.dev.json
+D:\SportStore\UrlsAndRoutes\bin\Debug\netcoreapp2.0\UrlsAndRoutes.dll
+D:\SportStore\UrlsAndRoutes\bin\Debug\netcoreapp2.0\UrlsAndRoutes.pdb
+D:\SportStore\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.csprojAssemblyReference.cache
+D:\SportStore\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.csproj.CoreCompileInputs.cache
+D:\SportStore\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.AssemblyInfoInputs.cache
+D:\SportStore\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.AssemblyInfo.cs
+D:\SportStore\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.dll
+D:\SportStore\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.pdb
