@@ -16,14 +16,18 @@ namespace DependencyInjection.Controllers
         //public IRepository Repository { get; set; } = new MemoryRepository();
         // GET: /<controller>/
         private IRepository repository;
+        private ProductTotalizer totalize;
 
-        public HomeController(IRepository repo)
+        public HomeController(IRepository repo, ProductTotalizer total)
         {
             repository = repo;
+            totalize = total;
         }
 
         public ViewResult Index()
         {
+            ViewBag.Total = totalize.Repository.ToString();
+            ViewBag.HomeController = repository.ToString();
             return View(repository.Products);
         }
     }

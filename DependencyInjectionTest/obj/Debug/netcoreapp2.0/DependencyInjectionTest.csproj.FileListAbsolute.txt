@@ -12,3 +12,20 @@ C:\Users\Phong Phonix\Documents\SportStore\DependencyInjectionTest\obj\Debug\net
 C:\Users\Phong Phonix\Documents\SportStore\DependencyInjectionTest\obj\Debug\netcoreapp2.0\DependencyInjectionTest.AssemblyInfo.cs
 C:\Users\Phong Phonix\Documents\SportStore\DependencyInjectionTest\obj\Debug\netcoreapp2.0\DependencyInjectionTest.dll
 C:\Users\Phong Phonix\Documents\SportStore\DependencyInjectionTest\obj\Debug\netcoreapp2.0\DependencyInjectionTest.pdb
+D:\SportStore\DependencyInjectionTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\SportStore\DependencyInjectionTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\SportStore\DependencyInjectionTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\SportStore\DependencyInjectionTest\bin\Debug\netcoreapp2.0\DependencyInjectionTest.deps.json
+D:\SportStore\DependencyInjectionTest\bin\Debug\netcoreapp2.0\DependencyInjectionTest.runtimeconfig.json
+D:\SportStore\DependencyInjectionTest\bin\Debug\netcoreapp2.0\DependencyInjectionTest.runtimeconfig.dev.json
+D:\SportStore\DependencyInjectionTest\bin\Debug\netcoreapp2.0\DependencyInjectionTest.dll
+D:\SportStore\DependencyInjectionTest\bin\Debug\netcoreapp2.0\DependencyInjectionTest.pdb
+D:\SportStore\DependencyInjectionTest\bin\Debug\netcoreapp2.0\DependencyInjection.dll
+D:\SportStore\DependencyInjectionTest\bin\Debug\netcoreapp2.0\DependencyInjection.pdb
+D:\SportStore\DependencyInjectionTest\obj\Debug\netcoreapp2.0\DependencyInjectionTest.csprojAssemblyReference.cache
+D:\SportStore\DependencyInjectionTest\obj\Debug\netcoreapp2.0\DependencyInjectionTest.csproj.CoreCompileInputs.cache
+D:\SportStore\DependencyInjectionTest\obj\Debug\netcoreapp2.0\DependencyInjectionTest.AssemblyInfoInputs.cache
+D:\SportStore\DependencyInjectionTest\obj\Debug\netcoreapp2.0\DependencyInjectionTest.AssemblyInfo.cs
+D:\SportStore\DependencyInjectionTest\obj\Debug\netcoreapp2.0\DependencyInjectionTest.csproj.CopyComplete
+D:\SportStore\DependencyInjectionTest\obj\Debug\netcoreapp2.0\DependencyInjectionTest.dll
+D:\SportStore\DependencyInjectionTest\obj\Debug\netcoreapp2.0\DependencyInjectionTest.pdb

@@ -19,3 +19,4 @@ C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\obj\Debug\netcore
 C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfo.cs
 C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.dll
 C:\Users\Phong Phonix\Documents\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.pdb
+D:\SportStore\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csprojAssemblyReference.cache
