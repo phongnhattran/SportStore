@@ -1,0 +1,11 @@
+C:\Users\Phong Phonix\Documents\SportStore\Filters\bin\Debug\netcoreapp2.0\Filters.deps.json
+C:\Users\Phong Phonix\Documents\SportStore\Filters\bin\Debug\netcoreapp2.0\Filters.runtimeconfig.json
+C:\Users\Phong Phonix\Documents\SportStore\Filters\bin\Debug\netcoreapp2.0\Filters.runtimeconfig.dev.json
+C:\Users\Phong Phonix\Documents\SportStore\Filters\bin\Debug\netcoreapp2.0\Filters.dll
+C:\Users\Phong Phonix\Documents\SportStore\Filters\bin\Debug\netcoreapp2.0\Filters.pdb
+C:\Users\Phong Phonix\Documents\SportStore\Filters\obj\Debug\netcoreapp2.0\Filters.csprojAssemblyReference.cache
+C:\Users\Phong Phonix\Documents\SportStore\Filters\obj\Debug\netcoreapp2.0\Filters.csproj.CoreCompileInputs.cache
+C:\Users\Phong Phonix\Documents\SportStore\Filters\obj\Debug\netcoreapp2.0\Filters.AssemblyInfoInputs.cache
+C:\Users\Phong Phonix\Documents\SportStore\Filters\obj\Debug\netcoreapp2.0\Filters.AssemblyInfo.cs
+C:\Users\Phong Phonix\Documents\SportStore\Filters\obj\Debug\netcoreapp2.0\Filters.dll
+C:\Users\Phong Phonix\Documents\SportStore\Filters\obj\Debug\netcoreapp2.0\Filters.pdb
